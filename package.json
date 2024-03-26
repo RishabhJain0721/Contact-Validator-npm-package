@@ -1,15 +1,22 @@
 {
   "name": "contact-validator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Contact Validator is a versatile npm package designed to validate various types of contact information like email, phone number, URLs and IP addresses.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "validate",
+    "contact",
+    "data",
+    "email",
+    "phone",
+    "url",
+    "ip",
+    "address"
+  ],
+  "author": "Rishabh Jain",
   "license": "ISC",
   "dependencies": {
     "dns": "^0.2.2"
