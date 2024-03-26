@@ -1,6 +1,6 @@
 {
   "name": "contact-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Contact Validator is a versatile npm package designed to validate various types of contact information like email, phone number, URLs and IP addresses.",
   "main": "index.js",
   "scripts": {
