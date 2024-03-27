@@ -13,11 +13,10 @@
     "email",
     "phone",
     "url",
-    "ip",
-    "address"
+    "ip address"
   ],
   "author": "Rishabh Jain",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "dns": "^0.2.2"
   },
