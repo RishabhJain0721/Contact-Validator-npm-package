@@ -1,4 +1,4 @@
-# Contact Validator v1.0.0
+# Contact Validator
 
 Contact Validator is a versatile npm package designed to validate various types of contact information.
 
